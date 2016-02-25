@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN" "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Templates">
+        <folder name="SpringFramework">
+            <file name="Entity.java" url="nbresloc:/org/netbeans/modules/sbt4nb/SimpleEntity.template">
+                <attr name="displayName" bundlevalue="org.netbeans.modules.sbt4nb.Bundle#Templates/SpringFramework/Entity.java"/>
+                <attr boolvalue="true" name="template"/>
+                <attr name="position" intvalue="350"/>
+                <attr name="javax.script.ScriptEngine" stringvalue="freemarker"/>
+                <attr name="templateWizardURL" urlvalue="nbresloc:/org/netbeans/modules/sbt4nb/entity.html"/>
+            </file>
+            <file name="CLR.java" url="nbresloc:/org/netbeans/modules/sbt4nb/SimpleCLR.template">
+                <attr name="displayName" bundlevalue="org.netbeans.modules.sbt4nb.Bundle#Templates/SpringFramework/CLR.java"/>
+                <attr boolvalue="true" name="template"/>
+                <attr name="templateWizardURL" urlvalue="nbresloc:/org/netbeans/modules/sbt4nb/CLR.html"/>
+                <attr name="position" intvalue="360"/>
+                <attr name="javax.script.ScriptEngine" stringvalue="freemarker"/>
+            </file>
+            <file name="JPA.java" url="nbresloc:/org/netbeans/modules/sbt4nb/SimpleJpaRepository.template">
+                <attr name="displayName" bundlevalue="org.netbeans.modules.sbt4nb.Bundle#Templates/SpringFramework/JPA.java"/>
+                <attr name="templateWizardURL" urlvalue="nbresloc:/org/netbeans/modules/sbt4nb/JPA.html"/>
+                <attr boolvalue="true" name="template"/>
+                <attr name="position" intvalue="370"/>
+                <attr name="javax.script.ScriptEngine" stringvalue="freemarker"/>
+            </file>
+        </folder>
+    </folder>
+</filesystem>
