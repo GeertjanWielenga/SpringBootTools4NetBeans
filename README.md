@@ -7,6 +7,10 @@ are provided.
 
 <p><a href="http://plugins.netbeans.org/plugin/63124/spring-boot-tools-4-netbeans">http://plugins.netbeans.org/plugin/63124/spring-boot-tools-4-netbeans</a></p>
 
+<p>Related documentation:</p>
+
+<p><a href="https://blogs.oracle.com/geertjan/entry/spring_boot_scenario_with_netbeans">https://blogs.oracle.com/geertjan/entry/spring_boot_scenario_with_netbeans</a></p>
+
 <p>In the New File dialog, quickly create new entities, command line runners,
  and Spring Data repositories:</p>
 
