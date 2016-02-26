@@ -42,7 +42,7 @@ public class SpringCorsCodeGenerator implements CodeGenerator {
 "    config.addAllowedMethod(\"DELETE\");\n" +
 "    config.addAllowedMethod(\"PATCH\");\n" +
 "    source.registerCorsConfiguration(\"/**\", config);\n" +
-"    // return new CorsFilter(source);\n" +
+"\n" +
 "    final FilterRegistrationBean bean = new FilterRegistrationBean(new CorsFilter(source));\n" +
 "    bean.setOrder(0);\n" +
 "    return bean;\n" +
