@@ -23,3 +23,9 @@ are provided.
 <p>In Maven POM files, quickly generate support for Spring Actuator and Spring Loaded:</p>
 
 <img src="images/springmaven.png"/>
+
+<p>Related plugin:</p>
+
+<p><a href="https://blogs.oracle.com/geertjan/entry/new_spring_boot_integration_for">https://blogs.oracle.com/geertjan/entry/new_spring_boot_integration_for</a></p>
+
+<p><a href="https://github.com/keevosh/nb-springboot-configuration-support">https://github.com/keevosh/nb-springboot-configuration-support</a></p>
